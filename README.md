@@ -28,7 +28,7 @@ An unnamed male high school student comes across a book in a hospital waiting ro
 The movie is good.
 ```
 ### Rating
-<p> &#11088 &#11088 &#11088 &#11088 &#11088 </p> - 5 out of 5 stars!
+<p> &#11088 &#11088 &#11088 &#11088 &#11088 - 5 out of 5 stars! </p>
 
 
 
